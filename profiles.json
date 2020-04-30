@@ -2,7 +2,7 @@
     "$schema": "https://aka.ms/terminal-profiles-schema",
   "globals": {
     "alwaysShowTabs": true,
-    "copyOnSelect": false,
+    "copyOnSelect": true,
     "defaultProfile": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
     "initialCols": 120,
     "initialRows": 30,
